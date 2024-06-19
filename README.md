@@ -62,3 +62,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Acknowledgements
 I acknowledge the Kaggle for providing the dataset used in this analysis.
 You can view the dataset [here](https://www.kaggle.com/datasets/jainaru/thyroid-disease-data)
+Thank you for viewing the notebook.
