@@ -41,7 +41,7 @@ To run the analysis and predictive models, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/peterkahumu/THYROID-DATASET-PREDICTION-AND-EXPLORATORY-DATA-ANALYSIS.git
+    git clone https://github.com/peterkahumu/THYROID-CANCER-PREDICTION.git
     ```
 2. Navigate to the project directory:
     ```sh
