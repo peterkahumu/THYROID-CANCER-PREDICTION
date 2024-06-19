@@ -28,7 +28,7 @@ The dataset includes 13 clinicopathologic features which are described as follow
 - **Recurred**: Indication of cancer recurrence post-treatment.
 
 ## Objective
-The primary objective of this project is to predict whether theres any risk of the database recurring.
+The primary objective of this project is to predict whether theres any risk of the Thyroid cancer recurring.
 
 ## Data Source
 The data for this project is procured from the UCI Machine Learning Repository's thyroid disease datasets.
